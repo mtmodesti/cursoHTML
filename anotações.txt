@@ -1,0 +1,26 @@
+Pré Requisitos:
+
+VScode e como instalar (WINDOWS E UBUNTU)
+
+Extensões necessárias para usar o VSCODE neste curso: LIVE SERVER 
+
+Aulas iniciais e introdutorias:
+
+- Historia e definição do HTML
+
+- conceitos inicial em HTML (TAGS - semânticas e não semânticas)
+
+- Estrutura básica do HTML (TAG HTML5 que constroi um projeto inicial) e 
+explicar todas as tags da estrutura inicial
+(DOCTYPE - html - head - meta - title - body)
+
+- atributos HTML globais e especificos (Atributos HTML são palavras especiais usadas dentro da 
+tag de abertura para controlar o comportamento do elemento. 
+Os atributos HTML são um modificador de um tipo de elemento HTML. 
+Com eles podemos identificar melhor um elemento, informar qual arquivo a
+quela tag deve utilizar, indicar o tipo de um campo de texto, etc…)
+
+- formularios html (montar um form com grande variedade de inputs)
+
+
+
