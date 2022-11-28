@@ -1,8 +1,14 @@
 Pré Requisitos:
 
+O que é editor de código-fonte? 
+O que é um IDE?
+(VSCode - ATOM - Vim - VSCODE - etc...)
 VScode e como instalar (WINDOWS E UBUNTU)
+Explicando a interface gráfica do VSCODE
 
 Extensões necessárias para usar o VSCODE neste curso: LIVE SERVER 
+
+HTML
 
 Aulas iniciais e introdutorias:
 
@@ -20,7 +26,10 @@ Os atributos HTML são um modificador de um tipo de elemento HTML.
 Com eles podemos identificar melhor um elemento, informar qual arquivo a
 quela tag deve utilizar, indicar o tipo de um campo de texto, etc…)
 
-- formularios html (montar um form com grande variedade de inputs)
+- formularios em html (montar um form com grande variedade de inputs)
 
+- redirecionamento de páginas com html
 
+CSS
 
+- Historia e definição do CSS
